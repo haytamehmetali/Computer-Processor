@@ -11,11 +11,9 @@ This project comprises a modular digital design of a basic processor and its cor
 ## 📚 Used HR Modules
 
  ⚙️ **Arithmetic Logic Unit (ALU)** - Implements arithmetic and logic operations (e.g., addition, subtraction, bitwise operations)
- 🎛️ **Control Unit** - Generates control signals to orchestrate instruction execution across processor components
- 🖥️ **CPU / Datapath** - Integrates ALU, registers, and control logic to form the processing unit executing instructions
+ 🎛️ **Control Unit** - Generates control signals to orchestrate instruction execution across processor components  
+ 🖥️ **CPU / Datapath** - ntegrates ALU, registers, and control logic to form the processing unit executing instructions  
  
- 👥 **User Management** - Create, update, and manage system users  
- 🏢 **Company Administration** - Manage company profiles and organizational data  
  🕵️‍♂️ **Digital Tracking of Employee Activities** - Track shifts, logins, leaves, and more  
  📝 **Leave Management** - Submit, approve, and track employee leave requests  
  🕒 **Shift Scheduling** - Assign and monitor employee work shifts  
