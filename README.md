@@ -19,24 +19,8 @@ This project comprises a modular digital design of a basic processor and its cor
  🕒 **Shift Scheduling** - Assign and monitor employee work shifts  
  🖧 **Top-Level Computer** - Combines all modules to simulate a cohesive CPU system  
  🧪 **Testbench** - Provides simulation environment, verifying functionality of the overall system 
- 
- 
- 
-
-
-## 🚀 Key Features
-
- 📂 **Modular HR System Architecture**  
- 🛡️ **Role-Based Access Control**  
- 📧 **Email Verification & Account Activation**  
- 📅 **Shift, Leave & Personnel Tracking**  
- 📈 **Admin, Company & Employee Dashboards**  
-
 
 ## 🛠️ Technologies Used
 
- ☕ **Java & Spring Boot**  
- 🐘 **PostgreSQL**  
- 🔐 **JWT (JSON Web Token)**  
- 📄 **Swagger (API Documentation)**  
- 📬 **Postman (Testing & Collaboration)**  
+ 📜 **VHDL**  
+ 🧩 **Simulation Tools**
