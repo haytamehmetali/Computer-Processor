@@ -8,6 +8,18 @@ ComputerProcessor is a digital design project implemented in VHDL, focusing on m
 This project comprises a modular digital design of a basic processor and its core components, including the ALU, control unit, datapath, memory modules, and test benches for simulation. The repository serves as an educational demonstration of computer architecture principles using VHDL.
 
 
+## 📚 Used HR Modules
+
+ 🔐 **Authentication & Authorization** - Secure login with JWT & role-based access control  
+ 👥 **User Management** - Create, update, and manage system users  
+ 🏢 **Company Administration** - Manage company profiles and organizational data  
+ 🕵️‍♂️ **Digital Tracking of Employee Activities** - Track shifts, logins, leaves, and more  
+ 📝 **Leave Management** - Submit, approve, and track employee leave requests  
+ 🕒 **Shift Scheduling** - Assign and monitor employee work shifts  
+ 👨‍💼 **Employee Management** - Onboard, update, and manage employee information  
+ 🧾 **Payroll & Compensation** *(Coming Soon)* - Automate salary and payment operations  
+
+
 ## 📚 Used Modules
 
  ⚙️ **Arithmetic Logic Unit (ALU)** - Implements arithmetic and logic operations (e.g., addition, subtraction, bitwise operations) 
