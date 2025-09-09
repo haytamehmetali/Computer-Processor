@@ -10,7 +10,7 @@ This project comprises a modular digital design of a basic processor and its cor
 
 ## 📚 Used HR Modules
 
- 🔐 **Authentication & Authorization** - Secure login with JWT & role-based access control  
+ ⚙️ **Arithmetic Logic Unit (ALU)** - Implements arithmetic and logic operations (e.g., addition, subtraction, bitwise operations)  
  👥 **User Management** - Create, update, and manage system users  
  🏢 **Company Administration** - Manage company profiles and organizational data  
  🕵️‍♂️ **Digital Tracking of Employee Activities** - Track shifts, logins, leaves, and more  
@@ -22,7 +22,7 @@ This project comprises a modular digital design of a basic processor and its cor
 
 ## 📚 Used Modules
 
- ⚙️ **Arithmetic Logic Unit (ALU)** - Implements arithmetic and logic operations (e.g., addition, subtraction, bitwise operations) 
+ ⚙️ **Arithmetic Logic Unit (ALU)** -  
  🎛️ **Control Unit** - Generates control signals to orchestrate instruction execution across processor components
  🖥️ **CPU / Datapath** - Integrates ALU, registers, and control logic to form the processing unit executing instructions
  🗂️ **Memory Units**
